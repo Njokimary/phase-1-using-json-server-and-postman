@@ -9,6 +9,26 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "id": 3,
+      "title": "Third Article",
+      "content": "5am Club."
+    },
+    {
+      "title": "fourth Article",
+      "content": "Atomic habits.",
+      "id": 4
+    },
+    {
+      "title": "fifth Article",
+      "content": "success creed.",
+      "id": 5
+    },
+    {
+      "title": "sixth Article",
+      "content": "successful growth creed.",
+      "id": 6
     }
   ]
 }
